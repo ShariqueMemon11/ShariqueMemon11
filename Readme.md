@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **learning and path that best suits me.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sye0x?tab=repositories](https://github.com/Sye0x?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ShariqueMemon11?tab=repositories](https://github.com/ShariqueMemon11?tab=repositories)
 
 - 📫 How to reach me **memonshariq10@gmail.com**
 
