@@ -63,7 +63,7 @@
     <td style="border: 1px solid #ddd; padding: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
     </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">⭐⭐⭐⭐</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">⭐⭐⭐</td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">MySQL</td>
@@ -84,7 +84,7 @@
     <td style="border: 1px solid #ddd; padding: 8px;">
       <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/>
     </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">⭐⭐⭐⭐⭐</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">⭐⭐⭐</td>
   </tr>
 </table>
 <h3 align="left">Tools and Editors:</h3>
