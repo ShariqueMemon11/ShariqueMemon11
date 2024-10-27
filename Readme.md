@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 I'm Sharique </h1> <h3 align="center">As a dedicated Computer Science student 🎓, I am passionate about honing my programming skills 💻 and leveraging technology to solve real-world problems. With experience in various technologies, I thrive on challenges that push my limits and inspire growth 📚. I am eager to continue learning and contributing to innovative projects that make a difference in the tech landscape 🌐.</h3>
 - 🔭 I’m currently working on **Cross-Platform Mobile Apps**
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **ReactNative** & **JavaScript**
 
 - 👯 I’m looking to collaborate on **Real world Problem solving project**
 
