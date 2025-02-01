@@ -18,7 +18,7 @@
   
 <p><br></p>
 
-### ⚙️ &nbsp;GitHub Analytics:
+### 🌐 &nbsp;Languages:
 <table align="center" style="width: 80%; border-collapse: collapse; border: none; margin: auto;">
   <tr>
     <td align="center" style="border: none;">
@@ -73,7 +73,7 @@
 
 </p>
 
-### ⚙️ &nbsp;Tools and Editors:
+### 🛠 &nbsp;Tools and Editors:
 
 <p align="center">
   <a href="https://code.visualstudio.com/">
@@ -91,9 +91,16 @@
   <a href="https://notepad-plus-plus.org/">
     <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="Notepad++ Badge"/>
   </a>
+  <a href="https://jupyter.org/">
+        <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook Badge"/>
+  </a>
+   <a href="https://unity.com/">
+        <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/>
+   </a>
 </p>
+<p><br></p>
 
-<h3 align="left">Connect with me:</h3>
+### 🔗 &nbsp;Connect with me:
 <p align="left">
 <a href="https://pk.linkedin.com/in/shariq-memon-91438b24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shariq Memon" height="30" width="40" /></a>
 </p>
