@@ -108,4 +108,4 @@
 </p>
 
 
-(https://github.com/ShariqueMemon11/ShariqueMemon11/blob/main/snake.yml)
+![snake animation](https://github.com/ShariqueMemon11/ShariqueMemon11/blob/main/snake.yml)
