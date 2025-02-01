@@ -62,7 +62,7 @@
 ### ⚙️ &nbsp;GitHub Analytics:
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/ShariqueMemon11">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShariqueMemon11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShariqueMemon11&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -103,4 +103,7 @@
 ### 🔗 &nbsp;Connect with me:
 <p align="left">
 <a href="https://pk.linkedin.com/in/shariq-memon-91438b24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shariq Memon" height="30" width="40" /></a>
+<a href=https://leetcode.com/u/Shariq_x/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shariq Memon" height="30" width="40" /></a>
 </p>
+</p>
+![snake animation](https://github.com/<seu ShariqueMemon11>/<seu ShariqueMemon11>/blob/output/github-contribution-grid-snake2.svg)
