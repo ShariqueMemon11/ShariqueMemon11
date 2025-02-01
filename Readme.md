@@ -106,4 +106,7 @@
 <a href=https://leetcode.com/u/Shariq_x/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shariq Memon" height="30" width="40" /></a>
 </p>
 </p>
+
+![Snake animation](https://github.com/ShariqueMemon11/ShariqueMemon11/blob/output/github-contribution-grid-snake.svg)
+
 ![snake animation](https://github.com/<seu ShariqueMemon11>/<seu ShariqueMemon11>/blob/output/github-contribution-grid-snake2.svg)
