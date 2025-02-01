@@ -1,6 +1,10 @@
 <h1 align="center">Hello! 👋 I'm Sharique </h1> <h3 align="center"> <h2 align="center">Passionate App / Game 🎮 developer fusing AI to craft immersive digital experiences.</h2> Hey there! I'm a CS student on a mission 🚀—constantly coding, vibing, and crushing tech challenges. I live for pushing boundaries, experimenting with new tech, and turning wild ideas into reality. Currently, I'm deep into building Cross-Platform Mobile Apps because why settle for one platform when you can own them all? Let's code, create, and make some digital magic together! 💻🔥 </h3>
 
+##
 
+### 🛠 &nbsp;Currently
+
+<img border-radius="15px"  alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🔭 currently working on **Cross-Platform Apps & Game Development**
 
@@ -11,8 +15,10 @@
 - 👨‍💻 My projects [https://github.com/ShariqueMemon11?tab=repositories](https://github.com/ShariqueMemon11?tab=repositories)
 
 - 📫 How to reach me **memonshariq10@gmail.com**
+  
+<p><br></p>
 
-<h2 align="center">Languages</h2>
+### ⚙️ &nbsp;GitHub Analytics:
 <table align="center" style="width: 80%; border-collapse: collapse; border: none; margin: auto;">
   <tr>
     <td align="center" style="border: none;">
@@ -53,7 +59,7 @@
 </table>
 </h2>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics:
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -66,8 +72,10 @@
 </div>
 
 </p>
-<h3 align="left">Tools and Editors:</h3>
-<p align="left">
+
+### ⚙️ &nbsp;Tools and Editors:
+
+<p align="center">
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge"/>
   </a>
