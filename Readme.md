@@ -107,6 +107,5 @@
 </p>
 </p>
 
-![Snake animation](https://github.com/ShariqueMemon11/ShariqueMemon11/blob/output/github-contribution-grid-snake.svg)
 
-![snake animation](https://github.com/<seu ShariqueMemon11>/<seu ShariqueMemon11>/blob/output/github-contribution-grid-snake2.svg)
+(https://github.com/ShariqueMemon11/ShariqueMemon11/blob/main/snake.yml)
