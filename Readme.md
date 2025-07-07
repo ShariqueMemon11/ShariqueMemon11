@@ -18,47 +18,6 @@
   
 <p><br></p>
 
-### 🌐 &nbsp;Languages:
-<table align="center" style="width: 80%; border-collapse: collapse; border: none; margin: auto;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40px" alt="C++" />
-      <br />C++
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" alt="C#" />
-      <br />C#
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40px" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px" alt="Flutter" />
-      <br />Flutter
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40px" alt="Dart" />
-      <br />Dart
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React Native" />
-      <br />React Native
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" alt="PHP" />
-      <br />PHP
-    </td>
-  </tr>
-</table>
-</h2>
-
 ### ⚙️ &nbsp;GitHub Analytics:
 
 <p align="center">
@@ -73,32 +32,16 @@
 
 </p>
 
-### 🛠 &nbsp;Tools and Editors:
-
+### 🛠 ## 🛠️ Languages & Tools
 <p align="center">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge"/>
-  </a>
-  <a href="https://developer.android.com/studio">
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio Badge"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Badge"/>
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm Badge"/>
-  </a>
-  <a href="https://notepad-plus-plus.org/">
-    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="Notepad++ Badge"/>
-  </a>
-  <a href="https://jupyter.org/">
-        <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook Badge"/>
-  </a>
-   <a href="https://unity.com/">
-        <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/>
-   </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,unity,nodejs,tailwind,bootstrap,python,flask,mysql,firebase,git,vscode,androidstudio" />
 </p>
-<p><br></p>
+
+## 🏆 Certifications
+
+- Flutter & Dart - The Complete Guide (Udemy)
+- Introduction to LLMs (Udemy)
+
 
 ### 🔗 &nbsp;Connect with me:
 <p align="left">
