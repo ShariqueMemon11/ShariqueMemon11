@@ -32,12 +32,12 @@
 
 </p>
 
-### 🛠 ## 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,unity,nodejs,tailwind,bootstrap,python,flask,mysql,firebase,git,vscode,androidstudio" />
 </p>
 
-## 🏆 Certifications
+### 🏆 Certifications
 
 - Flutter & Dart - The Complete Guide (Udemy)
 - Introduction to LLMs (Udemy)
